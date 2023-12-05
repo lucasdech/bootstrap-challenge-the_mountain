@@ -1,0 +1,259 @@
+
+/* DEBUT CODE HEADER */
+
+
+
+
+    /* DEBUT CODE NAVBAR */
+
+.nav-link {
+
+    color: white !important;    
+}
+.H1 {
+    
+    font-size: 5em;
+
+}
+
+.jumbotron button{
+    margin-left: -15px;
+    border-radius: 0;
+    height: 60px;
+    width: 130px;
+    color: white ;
+}
+
+
+
+    /* FIN CODE NAVBAR */
+
+#header {
+
+    background-image: url(../images/bg_header.jpg) !important;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    }
+
+
+/*FIN CODE HEADER */
+
+
+/*DEBUT CODE FEATURES */
+
+#features {
+
+    height: 30%;
+}
+
+/*FIN CODE FEATURES */
+
+
+/* DEBUT CODE ABOUT */
+
+ #about {
+
+    background-image: url(../images/bg_nuage.jpg);
+    height: 65%;
+    background-size: cover;
+    background-position: center;
+
+ }
+
+ .blue-background {
+
+    background-color:rgba(55, 187, 220, 0.6); 
+    width: 30%;
+    height: 100%;
+    margin-left: 55%;
+ }
+
+
+ @media (max-width:1000px) {
+
+   .blue-background {
+
+      background-color:rgba(55, 187, 220, 0.6); 
+      width: 60%;
+      height: 100%;
+      margin-left: 55%;   
+
+   }
+ }
+    
+
+
+/* FIN CODE ABOUT*/
+
+
+/* DEBUT CODE BLOG */
+
+
+
+
+/* FIN CODE BLOG */
+
+
+/* DEBUT CODE HISTORY */
+
+#history {
+
+    background-image: url(../images/bg_appareil_photo.jpg);
+    height: 80%;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.blue-background2 {
+
+    background-color:rgba(55, 187, 220, 0.6); 
+    width: 40%;
+    height: 100%;
+    margin-left: 10%;
+ }
+
+ @media (max-width:1000px) {
+
+   .blue-background2 {
+   background-color:rgba(55, 187, 220, 0.6); 
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+
+   }
+}
+
+
+   
+
+
+
+
+
+/* FIN CODE HISTORY */
+
+
+
+/* DEBUT CODE PHOTO */
+
+ #photo {
+
+    background-color: rgb(214, 214, 214);
+    height: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+ }
+
+ #photo-maison {
+
+    width: 970px;
+    padding-right: 130px;
+    padding-bottom: 50px;
+ }
+
+ #pont-rouge {
+    
+    width: 420px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+ }
+ 
+ #motel-logo {
+
+    width: 850px;
+ }
+
+
+
+ .images-milieu2 {
+
+    margin-left: 100px;
+    
+    
+ }
+
+ @media (max-width:1000px) {
+
+      #photo img{
+
+         height: auto;
+      }
+ }
+
+/* FIN CODE PHOTO */
+
+/* DEBUT CODE LOGO*/
+
+#logo {
+
+   height: 100%;
+}
+
+#logo img{
+
+    height: 100px;
+}
+
+/* FIN CODE LOGO */
+
+
+
+/* DEBUT CODE MAIL*/
+
+ #mail {
+    height: 100%;
+    background-image: url(../images/bg_newsletter.jpg);
+    padding-right: 30%;
+    
+    
+ }
+
+ .bouton-mail {
+
+    border-radius: 1;
+ }
+
+ .mail {
+
+    width: 40%;
+ }
+
+ .couleur-fond{
+    
+    background-color: rgba(67, 67, 67, 0.5) !important;
+ }
+
+
+ @media (max-width:1000px) {
+
+   .couleur-fond {
+    
+   background-color: rgba(67, 67, 67, 0.5) !important;
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+
+   }
+}
+
+
+
+
+
+/* FIN CODE MAIL*/
+
+/* DEBUT CODE FOOTER */
+
+ .footer {
+    height: 250px;
+    
+ }
+
+ #footer span {
+
+    color: aqua;
+ }
+
+/* FIN CODE FOOTER */
